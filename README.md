@@ -28,7 +28,7 @@ I'm available on Twitter and LinkedIn. *DM Open*
 - Translate WireFrames to App Components
 
 
-## Other Common Github Profile Sections
+## More...
 
 👩‍💻 I'm currently Developing The Client Facing Side of IoT based Application WearBuddy for NrXen.
 
