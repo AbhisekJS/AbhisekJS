@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am a Front End Developer,and Web Technology Enthusiast, loves breaking and building web applications. Currently Working With NrXen, I work on MERN Stack and have keen interest on Serverless Technologies and interested to know about everything that runs on Internet.
+I am a Front End Developer,and Web Technology Enthusiast, loves breaking and building web applications. I work on MERN Stack and have keen interest on Serverless Technologies and interested to know about everything that runs on Internet.
 
 I love Sharing Knowledge I get From the Internet,
 
@@ -13,7 +13,7 @@ I'm available on Twitter and LinkedIn. *DM Open*
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS, Ant Design, Material UI
+**Client:** React, Next, Redux, TailwindCSS, Ant Design, Material UI
 
 **Server:** Node, Express
 
