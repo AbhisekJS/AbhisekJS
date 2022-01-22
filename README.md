@@ -29,19 +29,6 @@ I'm available on Twitter and LinkedIn. *DM Open*
 
 
 ## More...
-
-👩‍💻 I'm currently Developing The Client Facing Side of IoT based Application WearBuddy for NrXen.
-
-🧠 I'm currently learning JavaScript, Framer Motion for React
-
-👯‍♀️ I'm looking to collaborate on MERN/Serverless React
-
-🤔 I'm looking for help with Serverless/AWS Amplify
-
-💬 Ask me about Web Development, Front End Engineering and APIs
-
-⚡️ Hobbies: Sketch Artist and Loves Playing Guitar
-
 📫 How to reach me :point_down: or :email: abhisek.khuntia16@gmail.com 
 
 
